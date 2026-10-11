@@ -1,0 +1,6 @@
+dist/
+.qa/
+node_modules/
+coverage/
+*.log
+.env*
